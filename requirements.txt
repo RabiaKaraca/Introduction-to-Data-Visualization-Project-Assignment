@@ -5,3 +5,4 @@ pyautogui
 sympy
 Pillow
 PyMuPDF
+matplotlib
